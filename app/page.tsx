@@ -30,8 +30,6 @@ export default function Home() {
           </video>
         </div>
       </div>
-
-      <UserButton/>
     </main>
   )
 }
